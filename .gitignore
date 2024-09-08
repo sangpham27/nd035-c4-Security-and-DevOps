@@ -1,2 +1,5 @@
 .idea/
 /starter_code/target/
+
+# Log file
+*.log
